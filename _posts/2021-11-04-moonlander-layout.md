@@ -13,4 +13,4 @@ tags:
 Now I'm using [Moonlander mark1](https://www.zsa.io/moonlander/),  
 Here is [layout](https://configure.zsa.io/moonlander/layouts/gYNBa/latest/0)
 
-![layout][{{site.url}}/assets/images/2021/11-04.png]
+![layout][/assets/images/2021/11-04.png]
